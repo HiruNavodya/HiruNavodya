@@ -8,12 +8,9 @@ Hi, I'm Hiruni Navodya Kudagama, a final-year undergraduate specializing in Indu
 
 I possess hands-on experience in a range of machine learning techniques, including:
 
-* Logistic Regression,Random Forest,XGBoost,SVM,ANN
+* Logistic/Linear Regression,Decision Trees,Random Forest,XGBoost,SVM,AdaBoost,GradientBoosting 
 
 * Clustering Algorithms: K-means, K-medoids,K-prototype
-
-
-In addition to these techniques, I have worked with:
 
 * Deep Learning: Neural Networks, MLP, CNNs, RNNs
   
